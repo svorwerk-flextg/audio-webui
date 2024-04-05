@@ -1,0 +1,6 @@
+data/**
+!**/.placeholder
+*.wav
+./extensions/**
+venv/**
+*.pyc
